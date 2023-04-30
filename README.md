@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**SyedMHashim/SyedMHashim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Software Developer and DevOps Engineer 👨‍💻, with nearly four years of industry experience 💪. I have worked extensively with startups and am well-equipped to handle multitasking and pressure 🚀 
 
-Here are some ideas to get you started:
+### Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I have experience working with Microservices and Distributed Systems. 
+* I'm Language agnostic and proficient in Python, Golang, Java, and JavaScript, with a stronger grasp on the first two.
+* I have experience working with Linux and MacOS, but can also work with Windows if needed.
+* My technical knowledge extends to a variety of software and tools, including:
+  * Docker
+  * Kubernetes
+  * AWS
+  * Terraform
+  * Ansible
+  * Helm
+  * Prometheus
+  * Grafana
+  * ArgoCd (and more) 
+
+I have a thirst for knowledge and am always eager to learn new software, tools, or languages.
+
+### Get in touch!
+
+📧 Email: [hashim.muhammad9@gmail.com](mailto:hashim.muhammad9@gmail.com)  
+👨🏻‍💼 LinkedIn: [SyedMHashim](https://www.linkedin.com/in/syedmhashim/)
