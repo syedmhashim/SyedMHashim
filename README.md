@@ -4,10 +4,10 @@ I'm a passionate Software Developer and DevOps Engineer 👨‍💻, with nearly
 
 ### Technical Skills
 
-* I have experience working with Microservices and Distributed Systems. 
-* I'm Language agnostic and proficient in Python, Golang, Java, and JavaScript, with a stronger grasp on the first two.
-* I have experience working with Linux and MacOS, but can also work with Windows if needed.
-* My technical knowledge extends to a variety of software and tools, including:
+* I have experience working with Microservices and Distributed Systems. ✅
+* I'm Language agnostic and proficient in Python, Golang, Java, and JavaScript, with a stronger grasp on the first two. ✅
+* I have experience working with Linux and MacOS, but can also work with Windows if needed. ✅
+* My technical knowledge extends to a variety of software and tools, including: ✅
   * Docker
   * Kubernetes
   * AWS
@@ -16,11 +16,11 @@ I'm a passionate Software Developer and DevOps Engineer 👨‍💻, with nearly
   * Helm
   * Prometheus
   * Grafana
-  * ArgoCd (and more) 
+  * ArgoCd (and more)
 
-I have a thirst for knowledge and am always eager to learn new software, tools, or languages.
+I have a thirst for knowledge and am always eager to learn new software, tools, or languages 🙂
 
 ### Get in touch!
 
 📧 Email: [hashim.muhammad9@gmail.com](mailto:hashim.muhammad9@gmail.com)  
-👨🏻‍💼 LinkedIn: [SyedMHashim](https://www.linkedin.com/in/syedmhashim/)
+👨‍💼 LinkedIn: [SyedMHashim](https://www.linkedin.com/in/syedmhashim/)
