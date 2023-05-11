@@ -24,3 +24,6 @@ I have a thirst for knowledge and am always eager to learn new software, tools, 
 
 📧 Email: [hashim.muhammad9@gmail.com](mailto:hashim.muhammad9@gmail.com)  
 👨‍💼 LinkedIn: [SyedMHashim](https://www.linkedin.com/in/syedmhashim/)
+
+### Github Gists
+Checkout my github gists [here](https://gist.github.com/SyedMHashim)
