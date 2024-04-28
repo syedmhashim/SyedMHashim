@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a passionate Software Developer and DevOps Engineer 👨‍💻, with nearly four years of industry experience 💪. I have worked extensively with startups and am well-equipped to handle multitasking and pressure 🚀 
+I'm a passionate Software Developer and DevOps Engineer 👨‍💻, with around 5 years of industry experience 💪. I have worked extensively with startups and am well-equipped to handle multitasking and pressure 🚀 
 
 ### Technical Skills
 
@@ -16,7 +16,10 @@ I'm a passionate Software Developer and DevOps Engineer 👨‍💻, with nearly
   * Helm
   * Prometheus
   * Grafana
-  * ArgoCd (and more)
+  * ArgoCd
+  * PostgreSQL
+  * MySQL
+  * MongoDB (and more)
 
 I have a thirst for knowledge and am always eager to learn new software, tools, or languages 🙂
 
