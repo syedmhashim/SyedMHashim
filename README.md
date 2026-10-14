@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a passionate Software Developer and DevOps Engineer 👨‍💻, with around 5 years of industry experience 💪. I have worked extensively with startups and am well-equipped to handle multitasking and pressure 🚀 
+I'm a passionate Software Developer and DevOps Engineer 👨‍💻, with around 7 years of industry experience 💪. I have worked extensively with startups and am well-equipped to handle multitasking and pressure 🚀 
 
 ### Technical Skills
 
